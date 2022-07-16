@@ -10,6 +10,7 @@ There are two ways to start the program:
 - by opening the terminal in the "Jar-File" folder and typing: “java -jar MusicShowFactory-1.0.jar”.
 The program is based on a textual interface.
 
+
 PASSWORD ATTORI:
 - CASHIER: 123
 - MARKET MANAGER: 456
